@@ -8,3 +8,10 @@
     width: 120px;
     height: 80px;
 }
+.country0{
+    width:300px;
+    heigh:250px;
+    background-color: salmon;
+    border:5px solid black;
+    display:none;
+}

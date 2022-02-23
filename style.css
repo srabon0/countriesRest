@@ -1,0 +1,10 @@
+.container{
+    display:grid;
+   grid-template-columns: repeat(3,1fr);
+    gap:10px;
+}
+
+.flag{
+    width: 120px;
+    height: 80px;
+}
